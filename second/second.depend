@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1496824135 source:e:\second\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1497881320 source:f:\c\second\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
